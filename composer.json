@@ -1,0 +1,19 @@
+{
+    "name": "parazeet/test",
+    "description": "Lessons...",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "parazeet",
+            "email": "boycojoz@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": ""
+        }
+    }
+}
