@@ -6,6 +6,9 @@
  * Time: 9:59
  */
 
+namespace Parazeet\Test;
+
+
 class Test
 {
     public function test() {
