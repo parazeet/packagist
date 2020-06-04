@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Parazeet\\": "vendor/parazeet/test/src"
+            "Parazeet\\": "src"
         }
     }
 }
