@@ -6,7 +6,7 @@
  * Time: 9:59
  */
 
-namespace Parazeet\Test;
+namespace Parazeet;
 
 
 class Test

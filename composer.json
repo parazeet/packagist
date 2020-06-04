@@ -1,5 +1,5 @@
 {
-    "name": "parazeet/test",
+    "name": "parazeet/packagist",
     "description": "Lessons...",
     "license": "MIT",
     "version": "1.0.0",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "src\\": ""
+            "Parazeet\\": "src/"
         }
     }
 }
